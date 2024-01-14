@@ -1,5 +1,3 @@
-Problem Statement :
-
 1 Write a program to find the sum of all numbers from 1 to N using a loop.
 
 2 Implement a program to check if a given number is prime or not.
@@ -162,149 +160,141 @@ Problem Statement :
 
 81 Write a program to print the following pattern:
 
-*
-**
-***
-****
+	*
+	**
+	***
+	****	
 82 Create a C++ program to print the following pattern:
-
-****
-***
-**
-*
+	
+	****
+	***
+	**
+	*
 83 Write a program to display the following pattern:
 
-    *
-   **
-  ***
- ****
+	    *
+	   **
+	  ***
+	 ****
 84 Write a program to display the following pattern:
 
-1
-22
-333
-4444
+	1
+	22
+	333
+	4444
 85 Create a C++ program to print the following pattern:
-
-1
-12
-123
-1234
+	
+	1
+	12
+	123
+	1234
 86 Write a program to display the following pattern:
 
-1234
-123
-12
-1
+	1234
+	123
+	12
+	1
 87 Create a C++ program to print the following pattern:
 
-*
-**
-***
-****
-***
-**
-*
+	*
+	**
+	***
+	****
+	***
+	**
+	*
 88 Write a C++ program to display the following pattern:
 
-1
-121
-12321
-1234321
+	1
+	121
+	12321
+	1234321
 89 Create a C++ program to print the following pattern:
 
-1
-212
-32123
-4321234
+	1
+	212
+	32123
+	4321234
 90 Create a C++ program to print the following pattern:
 
-    *
-   ***
-  *****
- *******
-*********
+	    *
+	   ***
+	  *****
+	 *******
+	*********
 91 Write a C++ program to display the following pattern:
 
-*********
- *******
-  *****
-   ***
-    *
+	*********
+	 *******
+	  *****
+	   ***
+	    *
 92 Create a C++ program to print the following pattern:
 
-*****
-*   *
-*   *
-*   *
-*****
+	*****
+	*   *
+	*   *
+	*   *
+	*****
 93 Write a C++ program to display the following pattern:
 
-A
-B C
-D E F
-G H I J
+	A
+	B C
+	D E F
+	G H I J
 94 Create a C++ program to print the following pattern:
 
-1
-2 3
-4 5 6
-7 8 9 10
+	1
+	2 3
+	4 5 6
+	7 8 9 10
 95 Write a C++ program to display the following pattern:
-
-1
-10
-101
-1010
+	
+	1
+	10
+	101
+	1010
 96 Create a C++ program to print the following pattern:
 
-    1
-   121
-  12321
- 1234321
-123454321
+	    1
+	   121
+	  12321
+	 1234321
+	123454321
 97 Write a C++ program to display the following pattern:
-
-   1
-  232
- 34543
-4567654
- 34543
-  232
-   1
+	
+	   1
+	  232
+	 34543
+	4567654
+	 34543
+	  232
+	   1
 98 Write a C++ program to display the following pattern:
-
-54321
-5432
-543
-54
-5
+	
+	54321
+	5432
+	543
+	54
+	5
 99 Write a C++ program to display the following pattern:
 
-EEEEE
-DDDD
-CCC
-BB
-A
+	EEEEE
+	DDDD
+	CCC
+	BB
+	A
 100 Write a C++ program to display the following pattern:
 
-E
-DE
-CDE
-BCDE
-ABCDE
+	E
+	DE
+	CDE
+	BCDE
+	ABCDE
+
+
+
 101 Problem Statement: Random Group Assignment
 
 You are given an array of N students and a set of Q questions. Your task is to create a C++ program that randomly forms groups from the students and assigns questions to each member such that the questions are distributed evenly among the group members.
 
-Your program should have the following functionalities:
-
-Input the total number of students N and the total number of questions Q from the user.
-
-Generate random groups such that each group consists of exactly 5 members. If there are not enough students to form a complete group, they should be left out.
-
-Randomly assign questions to each student within their respective groups. Make sure that questions are divided as evenly as possible among the group members. If there are more questions than can be evenly distributed, some students may receive an extra question.
-
-Display the groups and the questions assigned to each student in each group.
-
-Ensure that the same question is not assigned to multiple students in the same group."
